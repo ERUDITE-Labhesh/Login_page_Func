@@ -9,3 +9,7 @@ def greeting(name):
 
 greeting('Alex')
 
+def Courses(subject): 
+  print("This is the New function")
+  
+Courses('Python')
